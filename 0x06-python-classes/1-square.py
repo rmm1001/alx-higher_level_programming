@@ -1,7 +1,11 @@
 #!/usr/bin/python3
-"""This is the first project using documentation for Python """
+"""
+This module defines a Square class and initialise its size
+"""
+
 
 class Square:
-    """I'll define a square using a size attribute"""
+    """Square implementation
+    """
     def __init__(self, size):
         self.__size = size
