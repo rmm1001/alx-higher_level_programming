@@ -1,13 +1,7 @@
 #!/usr/bin/python3
-"""Square class"""
-
+"""This is the first project using documentation for Python """
 
 class Square:
-    """__(int): size of a side"""
+    """I'll define a square using a size attribute"""
     def __init__(self, size):
-        """initializes a square
-        Args:
-            size(int):size of a side
-        Return: None
-        """
         self.__size = 
