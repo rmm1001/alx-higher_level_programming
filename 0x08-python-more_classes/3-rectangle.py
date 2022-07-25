@@ -70,4 +70,4 @@ class Rectangle:
                     string += self.__width * '#'
                 else:
                     string += self.__width * '#' + '\n'
-            return 
+            return string
